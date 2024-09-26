@@ -95,8 +95,8 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`user_id`, `firstname`, `lastname`, `user_name`, `user_password_hash`, `user_email`, `date_added`) VALUES
-(1, 'Alan', 'Parra', 'admin', '$2y$10$MPVHzZ2ZPOWmtUUGCq3RXu31OTB.jo7M9LZ7PmPQYmgETSNn19ejO', 'admin@admin.com', '2016-12-19 15:06:00');
-
+(1, 'Alan', 'Parra', 'admin', '$2y$12$/j2R5OvbuSkRpStkqWDGZuXmBGCfc8mwnj7Pbkp.TEOZyyiOHqiJ2', 'admin@admin.com', '2016-12-19 15:06:00');
+-- adminalan
 --
 -- Índices para tablas volcadas
 --
